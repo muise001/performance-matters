@@ -24,7 +24,7 @@ File compressing is usefull to decrease the sizes (KB's or even MB's) of your fi
 * defer on `<script>`
   * "Defer" makes sure that the DOM is loaded in first. If that's loaded in, He'll load in your JS file
 * added caching
-  * 
+  * Made sure the browser saves the files that it downloads for showing the website. Using this, slightly increases the time to load the website for the first time (a few hundered ms), but drasticly increases the speed of the site when you visit it for the second time. 
 
 
 ## Getting started
