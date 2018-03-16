@@ -26,9 +26,4 @@ File compressing is usefull to decrease the sizes (KB's or even MB's) of your fi
 * **added caching**
   * Made sure the browser saves the files that it downloads for showing the website. Using this, slightly increases the time to load the website for the first time (a few hundered ms), but drasticly increases the speed of the site when you visit it for the second time. 
 
-
-## Getting started
-
-- Install dependencies: `npm install`
-- Serve: `npm start`
-- Expose localhost: `npm run expose`
+``` Emiel Muis```
